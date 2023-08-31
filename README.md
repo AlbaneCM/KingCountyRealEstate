@@ -1,7 +1,9 @@
 # King County Real Estate
+
 <p align="center">
-![](images/kingCounty.jpg)
+  <img src="images/kingCounty.jpg" />
 </p>
+
 ## 1. Overview
 
 This notebook examines King County, WA dataset of houses and reviews how and what renovations add value to a house's sale price.
