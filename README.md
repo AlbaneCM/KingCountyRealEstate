@@ -14,6 +14,8 @@ The goal is to provide advice to homeowners about how home renovations might inc
 
 ## 3. Data Understanding
 
+The data comes from the official King County WA website: kingcounty.gov and more specifically from the section King County Department of Assessments. More information can be found here: https://info.kingcounty.gov/assessor/DataDownload/default.aspx
+
 This dataset contains information about house sales in King County WA. It includes the following columns:
 * `id` - Unique identifier for a house
 * `date` - Date house was sold
@@ -48,11 +50,15 @@ After an initial visualization of the dataset's distribution, as well as a first
 
 Outliers were excluded outside of the 5th percentile both at the lower and upper limit. 
 
-![](images/distribution.png)
+![](images/price_distribution_after.png)
 
 
 Three main models of regression were created. 
-1. Simple linear regression predicting a house's sale price based on its square footage of living area 
+1. Simple linear regression predicting a house's sale price based on its square footage of living area. 
+Square footage of living area was selected as it was defined as the feature with the highest correlation with the price variable. 
+
+![](images/price_distribution_after.png)
+
 2. Multiple linear regression predicting price based on:
     * square footage of living area 
     * the house's condition (ranking)
