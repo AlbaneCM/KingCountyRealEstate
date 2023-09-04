@@ -57,11 +57,14 @@ Three main models of regression were created.
 1. Simple linear regression predicting a house's sale price based on its square footage of living area. 
 Square footage of living area was selected as it was defined as the feature with the highest correlation with the price variable. 
 
-![](images/price_distribution_after.png)
+![](images/sqft_living_post_outliers.png)
 
 2. Multiple linear regression predicting price based on:
     * square footage of living area 
     * the house's condition (ranking)
+
+![](images/price_by_condition.png)
+
 3. Multiple linear regression predicting price based on numeric features:
     * number of bedrooms
     * number of bathrooms
