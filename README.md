@@ -63,7 +63,7 @@ Square footage of living area was selected as it was defined as the feature with
     * square footage of living area 
     * the house's condition (ranking)
 
-![](images/price_by_condition.png)
+![](images/condition_price.png)
 
 3. Multiple linear regression predicting price based on numeric features:
     * number of bedrooms
