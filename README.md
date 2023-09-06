@@ -120,19 +120,19 @@ The last model returned the best results to draw the below conclusions. As a rea
 
 ### 1. Square Footage of Living Area 
     Focus on increasing the square footage of the living area. This may mean by reducing the space of your garage, basement, outdoor space, or by suppressing a bedroom if its size is not sufficient. 
-    An increase of one square foot in living area is associated with an increase of \$303.26 on the sale price
+    An increase of one square foot in living area is associated with an increase of $303.26 on the sale price
 
 ### 2. Very Good Condition
     Aim for a very good condition
-    Properties with a "Very Good" condition are associated with an increase of \$135,700 in price
+    Properties with a "Very Good" condition are associated with an increase of $135,700 in price
 
 ### 3. Bathroom 
     Add one bathroom If costs and water inlet permit it.
-    Adding one bathroom to the house is associated with an increase of \$116,200 on the sale price
+    Adding one bathroom to the house is associated with an increase of $116,200 on the sale price
 
 ### 4. Floor 
     Add one floor If your house has high ceilings. Consider a mezzanine if height is limited
-    Adding one floor to a house is associated with an increase of \$33,9000 on the sale price
+    Adding one floor to a house is associated with an increase of $33,9000 on the sale price
 
 
 
