@@ -89,9 +89,9 @@ The last model's results showed the best fit. Despite recording very close resul
    - "bathrooms": adding one bathroom to the house is associated with an increase of \$116,200 on the sale price 
    - "sqft_living": an increase of one square foot in living area is associated with an increase of \$303.26 on the sale price 
    - "floors": adding one floor to a house is associated with an increase of \$33,9000 on the sale price 
-   - "sqft_above": an increase of one square foot in the above area is associated with an increase of \$202.70 on the sale price 
-   - "sqft_basement": an increase of one square foot in the basement area is associated with an increase of \$101.19 on the sale price 
-   - "sqft_patio": an increase of one square foot in the outdoor area is associated with an increase of \$159.91 on the sale price 
+   - "sqft_above": an increase of one square foot in the above area is associated with an increase of $202.70 on the sale price 
+   - "sqft_basement": an increase of one square foot in the basement area is associated with an increase of $101.19 on the sale price 
+   - "sqft_patio": an increase of one square foot in the outdoor area is associated with an increase of $159.91 on the sale price 
 
 
 
